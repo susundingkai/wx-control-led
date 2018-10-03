@@ -1,0 +1,26 @@
+.butt{
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+.butt1{
+     text-align: center;
+     border: 1px solid;
+     width:100rpx;
+     height:100rpx;
+     margin-top:200rpx
+}
+.butt2{
+  display: flex;
+  flex-direction:row;
+  align-items: center
+}
+.butt3{
+  border: 1px solid;
+  margin-right:100rpx;
+  margin-top:80rpx;
+  width:100rpx;
+  height:100rpx;
+  text-align: center;
+  line-height: 100rpx
+}

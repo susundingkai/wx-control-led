@@ -1,0 +1,13 @@
+{
+  "name": "tcp",
+  "version": "0.0.0",
+  "description": "tcp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "net": "^1.0.2",
+    "nodejs-websocket": "^1.7.1"
+  }
+}

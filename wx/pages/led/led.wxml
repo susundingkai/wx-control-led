@@ -1,0 +1,11 @@
+<view style="border: 1px solid" bindtap="ontap">连接</view>
+<view style="border: 1px solid" bindtap="quit">断开</view>
+<view style="border: 1px solid;background-color:{{zt}}" >状态</view>
+<view class='butt'>
+<view class='butt1' bindtap="tapbuttonred"><text style='line-height:100rpx'>red</text></view>
+<view class='butt2'>
+<view class='butt3' bindtap="tapbuttongreen"><text>green</text></view>
+<view class='butt3' bindtap="tapbuttonblue" style='margin-right:0rpx'><text>blue</text></view>
+</view>
+<view class='butt1' bindtap="tapbuttonno" style='margin-top:100rpx'><text style='line-height:100rpx'>灭</text></view>
+</view>
